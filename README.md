@@ -2,6 +2,9 @@
 ## Objectives
 This project is aimed at covering basic Excel functions and familiarizing the students with pivot charts/tables. The purpose of this project is to discover the relationship between "release date" and the "success rate" of entertainment articles. 
 
+## Output File
+The excel file were this analysis took place can be found here: [Kickstarter Challenge](https://github.com/arianakhakpour/Data-Analytics/blob/main/Theater_Outcomes_vs_Launch.PNG)
+
 ## Analysis and Challenges
 Raw data was modified for analysis. Date formats (launch date and deadline) were converted to YYYY-MM-DD from timestamp format. The "Month" was also extracted from the launch date. 
 
@@ -14,7 +17,8 @@ Raw data was modified to categorize the "Goals" into 5K intervals. Number of suc
 %Succes = 100 * (No. of successful  / total count)
 %Failed = 100 * (No. of failures / total count)
 
-The success/failure ratio was plotted against goal range and can be found here: [Outcome based on goals](https://github.com/arianakhakpour/Data-Analytics/blob/main/Theater_Outcomes_vs_Launch.PNG).
+The success/failure ratio was plotted against goal range and can be found here: [Outcome based on goals](https://github.com/arianakhakpour/Data-Analytics/blob/main/Outcomes_vs_Goals.PNG).
+
 ## Challenges and Difficulties Encountered
 ## Results
 What are two conclusions you can draw about the Outcomes based on Launch Date?
