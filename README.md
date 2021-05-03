@@ -1,4 +1,6 @@
 # Challenge 1: Kickstarting with Excel
+By: Ariana Khakpour 
+
 ## Objectives
 This project is aimed at covering basic Excel functions and familiarizing the students with pivot charts/tables. The purpose of this project is to discover the relationship between "release date" and the "success rate" of entertainment articles. 
 
