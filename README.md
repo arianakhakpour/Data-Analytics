@@ -6,7 +6,7 @@ This project is aimed at covering basic Excel functions and familiarizing the st
 Raw data was modified for analysis. Date formats (launch date and deadline) were converted to YYYY-MM-DD from timestamp format. The "Month" was also extracted from the launch date. 
 
 ## Analysis of Outcomes Based on Launch Date
-A pivot table was developed that reports the total count of successful, failed and canceled shows for each "launch month". "Launch year" and "parent company" were set as filters and the "outcomes" were constituting the columns. The results can be viewed here: [Outcome based on launch date](https://pages.github.com/).
+A pivot table was developed that reports the total count of successful, failed and canceled shows for each "launch month". "Launch year" and "parent company" were set as filters and the "outcomes" were constituting the columns. The results can be viewed here: [Outcome based on launch date](https://github.com/arianakhakpour/Data-Analytics/blob/main/Theater_Outcomes_vs_Launch.PNG).
 
 ## Analysis of Outcomes Based on Goals
 Raw data was modified to categorize the "Goals" into 5K intervals. Number of successful, failed and canceled shows were seperately counted for each goal interval. Total occurances were calculated by adding up these numbers, and percentages were calculated using this formula:
@@ -14,6 +14,7 @@ Raw data was modified to categorize the "Goals" into 5K intervals. Number of suc
 %Succes = 100 * (No. of successful  / total count)
 %Failed = 100 * (No. of failures / total count)
 
+The success/failure ratio was plotted against goal range and can be found here: [Outcome based on goals](https://github.com/arianakhakpour/Data-Analytics/blob/main/Theater_Outcomes_vs_Launch.PNG).
 ## Challenges and Difficulties Encountered
 ## Results
 What are two conclusions you can draw about the Outcomes based on Launch Date?
