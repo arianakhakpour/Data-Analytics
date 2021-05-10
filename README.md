@@ -27,7 +27,7 @@ Major challenged faced during this project was the conversion of "stamped time" 
 ## Discussion of Results
 >What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-It can be concluded that the total number of shows are higher during May through August. Success rate, however, tends to be higher during this peak period. It can also be observed that the occurance of canceled shows is fairly steady throughout the year.
+It can be concluded that the total number of shows are higher during May through August. Success rate tends to be higher during this peak period. It can also be observed that the occurance of canceled shows is fairly steady throughout the year.
 See:  [Outcome based on launch date](https://github.com/arianakhakpour/Data-Analytics/blob/main/Theater_Outcomes_vs_Launch.PNG).
 
 >What can you conclude about the Outcomes based on Goals?
@@ -38,6 +38,6 @@ Success rate tends to drop with an increased goal. See: [Outcome based on goals]
 
 High computational demand due to large size data. 
 
->hat are some other possible tables and/or graphs that we could create?
+>What are some other possible tables and/or graphs that we could create?
 
 Success rate based on show category, success rate based on spotlight history, etc...
